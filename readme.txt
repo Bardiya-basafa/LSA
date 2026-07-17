@@ -1,4 +1,4 @@
-github repo: https://github.com/Bardiya-basafa/LSA.git
+github repo: https://github.com/Bardiya-basafa/LSA
 members:
     403521078
     403521438
